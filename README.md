@@ -4,6 +4,8 @@
 <p>Below is the output for when an Artificial Intelligence Wikipedia page is input into the program.</p>
 <p>When running the program, I reccommend running it on a proper IDE rather than on repl.it, the results are not displaying correctly on their limited scale IDE and could cause some confusion</p>
 
+<h2>How to Run</h2>
+<p>Download the main.py file, it should be reader to open in your local IDE and test. When running, choose run and the name of the file.</p>
 <h2>OUTPUT</h2>
 <img src="https://user-images.githubusercontent.com/36553501/129135838-e894010a-09bc-4baa-892a-03e0c83d697a.png">
 <br>
